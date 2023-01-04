@@ -2,6 +2,8 @@
 
 ## `--spoof-bd-addr`: Spoof the BD_ADDR of a local controller
 
+> And God said, "Let there be **colorful**", and there was [**colorful**](https://fo-000.github.io/bluing/#usage).
+
 <details><summary>example</summary>
 <p>
     <pre>
