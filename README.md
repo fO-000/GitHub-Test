@@ -7,6 +7,7 @@
 > And God said, "Let there be **colorful**", and there was [**colorful**](https://fo-000.github.io/bluing/#usage).
 
 <details><summary><code>bluing --help</code></summary>
+
 <pre>
 $ <span style="font-weight: bold; color: #9fab76">bluing</span> --help
 An intelligence gathering tool for hacking Bluetooth
