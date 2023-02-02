@@ -51,3 +51,7 @@ Examples:
   [<span style="font-weight: bold; color: #7da9c7">INFO</span>] BD_ADDR changed: 11:22:33:44:55:66 -&gt; <span style="font-weight: bold; color: #7da9c7">AA:BB:CC:DD:EE:FF</span>
   </pre>
   </details>
+
+<details><summary><h3><code>br</code> command: Basic Rate system</h3></summary>
+df
+</details>
